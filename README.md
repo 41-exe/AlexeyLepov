@@ -35,10 +35,12 @@
 <img width=51% src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexeyLepov&show_icons=true&hide_border=true&line_height=28&theme=dark&bg_color=000000&include_all_commits=true&count_private=true"/>
 <img width=47% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexeyLepov&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="" /></a> </div>
 
+<!-- 
  🎢 Activity graph:
 --------------------------------------------------------------------------------------
 
 <p align="center">
 <a href="https://github.com/AlexeyLepov">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlexeyLepov&theme=merko&area=true&hide_border=true#gh-dark-mode-only" width="98%" >
-</a> </p>
+</a> </p> 
+-->
