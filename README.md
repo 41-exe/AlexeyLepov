@@ -38,30 +38,30 @@ dark-mode
 ===================================-->
 
 <div align="center">
- <a href="https://github.com/41-exe/github-readme-activity-graph#gh-dark-mode-only">
+ <a href="https://github.com/a13xe/github-readme-activity-graph#gh-dark-mode-only">
  <!-- ________________________________________________________________________________
                                                                                      |
                                                           (your username goes here)  V  (your username goes here) -->
- <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=41-exe&show_icons=true&hide_border=true&line_height=28&theme=dark&bg_color=000000&include_all_commits=true&count_private=true"/>
+ <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&theme=dark&bg_color=000000&include_all_commits=true&count_private=true"/>
  <!-- ________________________________________________________________________________________________________
                                                                                                              |
                                                                                   (your username goes here)  V  (your username goes here) -->
- <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=41-exe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only"/>
+ <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only"/>
  </a>
  
  <!--===================================
  light-mode 
  ===================================-->
  
- <a href="https://github.com/41-exe/github-readme-activity-graph#gh-light-mode-only">
+ <a href="https://github.com/a13xe/github-readme-activity-graph#gh-light-mode-only">
  <!-- ________________________________________________________________________________
                                                                                      |
                                                           (your username goes here)  V  (your username goes here) -->
- <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=41-exe&show_icons=true&hide_border=true&line_height=28&theme=calm&&include_all_commits=true&count_private=true"/>
+ <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&theme=calm&&include_all_commits=true&count_private=true"/>
  <!-- ________________________________________________________________________________________________________
                                                                                                              |
                                                                                   (your username goes here)  V  (your username goes here) -->
- <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=41-exe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=calm#gh-dark-mode-only"/>
+ <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=calm#gh-dark-mode-only"/>
  </a>
 </div>
 
@@ -76,22 +76,22 @@ dark-mode
  dark-mode 
  ===================================-->
  
- <a href="https://github.com/41-exe/github-readme-activity-graph#gh-dark-mode-only">
+ <a href="https://github.com/a13xe/github-readme-activity-graph#gh-dark-mode-only">
  <!-- _____________________________________________________________________
                                                                           |
                                                (your username goes here)  V  (your username goes here) -->
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=41-exe&theme=github-compact&area=true&hide_border=true&height=350#gh-dark-mode-only" width="100%">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=a13xe&theme=github-compact&area=true&hide_border=true&height=350#gh-dark-mode-only" width="100%">
  </a>
  
  <!--===================================
  light-mode 
  ===================================-->
  
- <a href="https://github.com/41-exe/github-readme-activity-graph#gh-light-mode-only">
+ <a href="https://github.com/a13xe/github-readme-activity-graph#gh-light-mode-only">
  <!-- _____________________________________________________________________
                                                                           |
                                                (your username goes here)  V  (your username goes here) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=41-exe&theme=github&area=true&hide_border=true&height=350#gh-light-mode-only" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a13xe&theme=github&area=true&hide_border=true&height=350#gh-light-mode-only" width="100%">
  </a>
 
 </p>
