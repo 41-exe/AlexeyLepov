@@ -26,7 +26,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
-For other shields.io icons use: [shields-with-icon](https://github.com/progfay/shields-with-icon)
+To utilize other icons from shields.io, use: [shields-with-icon](https://github.com/progfay/shields-with-icon).
 
 
  🔮 Github statistics:
@@ -42,7 +42,7 @@ dark-mode
  <!-- ________________________________________________________________________________
                                                                                      |
                                                           (your username goes here)  V  (your username goes here) -->
- <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&theme=dark&bg_color=000000&include_all_commits=true&count_private=true"/>
+ <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&include_all_commits=true&count_private=true&theme=dark&bg_color=000000"/>
  <!-- ________________________________________________________________________________________________________
                                                                                                              |
                                                                                   (your username goes here)  V  (your username goes here) -->
