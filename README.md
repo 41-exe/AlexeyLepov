@@ -29,19 +29,19 @@ For other shields.io icons use: [shields-with-icon](https://github.com/progfay/s
  🔮 Github statistics:
 --------------------------------------------------------------------------------------
 
-<div align="center"> <a href="https://github.com/AlexeyLepov">
-<img width=53% src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexeyLepov&show_icons=true&hide_border=true&line_height=28&theme=dark&bg_color=000000&include_all_commits=true&count_private=true"/>
-<img width=41% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexeyLepov&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="" /></a> </div>
+<div align="center"> <a href="https://github.com/41-exe">
+<img width=53% src="https://github-readme-stats-eight-theta.vercel.app/api?username=41-exe&show_icons=true&hide_border=true&line_height=28&theme=dark&bg_color=000000&include_all_commits=true&count_private=true"/>
+<img width=41% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=41-exe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="" /></a> </div>
 
 
  🎢 Activity graph:
 --------------------------------------------------------------------------------------
 
 <p align="center">
-<a href="https://github.com/AlexeyLepov/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexeyLepov&theme=github&area=true&hide_border=true&height=350#gh-light-mode-only" width="100%">
+<a href="https://github.com/41-exe/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=41-exe&theme=github&area=true&hide_border=true&height=350#gh-light-mode-only" width="100%">
 </a>
-<a href="https://github.com/AlexeyLepov/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexeyLepov&theme=github-compact&area=true&hide_border=true&height=350#gh-dark-mode-only" width="100%">
+<a href="https://github.com/41-exe/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=41-exe&theme=github-compact&area=true&hide_border=true&height=350#gh-dark-mode-only" width="100%">
 </a>
 </p>
