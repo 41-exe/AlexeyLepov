@@ -42,11 +42,11 @@ dark-mode
  <!-- ________________________________________________________________________________
                                                                                      |
                                                           (your username goes here)  V  (your username goes here) -->
- <img width=53% src="https://github-readme-stats-eight-theta.vercel.app/api?username=41-exe&show_icons=true&hide_border=true&line_height=28&theme=dark&bg_color=000000&include_all_commits=true&count_private=true"/>
+ <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=41-exe&show_icons=true&hide_border=true&line_height=28&theme=dark&bg_color=000000&include_all_commits=true&count_private=true"/>
  <!-- ________________________________________________________________________________________________________
                                                                                                              |
                                                                                   (your username goes here)  V  (your username goes here) -->
- <img width=41% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=41-exe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only"/>
+ <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=41-exe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only"/>
  </a>
  
  <!--===================================
@@ -57,11 +57,11 @@ dark-mode
  <!-- ________________________________________________________________________________
                                                                                      |
                                                           (your username goes here)  V  (your username goes here) -->
- <img width=53% src="https://github-readme-stats-eight-theta.vercel.app/api?username=41-exe&show_icons=true&hide_border=true&line_height=28&theme=calm&bg_color=000000&include_all_commits=true&count_private=true"/>
+ <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=41-exe&show_icons=true&hide_border=true&line_height=28&theme=calm&&include_all_commits=true&count_private=true"/>
  <!-- ________________________________________________________________________________________________________
                                                                                                              |
                                                                                   (your username goes here)  V  (your username goes here) -->
- <img width=41% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=41-exe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=calm&bg_color=000000#gh-dark-mode-only"/>
+ <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=41-exe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=calm#gh-dark-mode-only"/>
  </a>
 </div>
 
