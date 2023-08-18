@@ -1,3 +1,11 @@
+
+👁‍🗨 Basic information:
+--------------------------------------------------------------------------------------
+
+- Create a repository named after your GitHub username.
+- Utilize this template.
+- Explore more options at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph).
+
  🛠 Tech stack:
 --------------------------------------------------------------------------------------
 
@@ -16,6 +24,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
+For other shields.io icons use: [shields-with-icon](https://github.com/progfay/shields-with-icon)
 
  🔮 Github statistics:
 --------------------------------------------------------------------------------------
@@ -36,10 +45,3 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexeyLepov&theme=github-compact&area=true&hide_border=true&height=350#gh-dark-mode-only" width="100%">
 </a>
 </p>
-
-
-<!-- 
-For other shields.io icons use
---------------------------------------------------------------------------------------
-https://github.com/progfay/shields-with-icon
--->
