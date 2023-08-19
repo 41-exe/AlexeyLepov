@@ -1,4 +1,4 @@
-👁‍🗨 Basic information:
+:eye_speech_bubble: Your bio:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -7,7 +7,7 @@
 - Explore more options at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph).
 
 
- 🛠 Tech stack:
+ :hammer_and_wrench: Tech stack:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -26,72 +26,71 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
-To utilize other icons from shields.io, use: [shields-with-icon](https://github.com/progfay/shields-with-icon).
+For other icons from shields.io, use [shields-with-icon](https://github.com/progfay/shields-with-icon).
 
 
- 🔮 Github statistics:
+ :crystal_ball: Github statistics:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<!--===================================
-dark-mode 
-===================================-->
-
 <div align="center">
+
+ 
+ <!--===================================
+ dark-mode 
+ ===================================-->
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-dark-mode-only">
- <!-- ________________________________________________________________________________
-                                                                                     |
-                                                          (your username goes here)  V  (your username goes here) -->
- <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&include_all_commits=true&count_private=true&theme=dark&bg_color=000000"/>
- <!-- ________________________________________________________________________________________________________
-                                                                                                             |
-                                                                                  (your username goes here)  V  (your username goes here) -->
- <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only"/>
+  <!-- ________________________________________________________________________________
+                                                                                      |
+                                                           (your username goes here)  V  (your username goes here) -->
+  <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&include_all_commits=true&count_private=true&theme=dark&bg_color=000000"/>
+  <!-- ________________________________________________________________________________________________________
+                                                                                                              |
+                                                                                   (your username goes here)  V  (your username goes here) -->
+  <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only"/>
  </a>
+ 
  
  <!--===================================
  light-mode 
  ===================================-->
- 
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-light-mode-only">
- <!-- ________________________________________________________________________________
-                                                                                     |
-                                                          (your username goes here)  V  (your username goes here) -->
- <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&theme=calm&&include_all_commits=true&count_private=true"/>
- <!-- ________________________________________________________________________________________________________
-                                                                                                             |
-                                                                                  (your username goes here)  V  (your username goes here) -->
- <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=calm#gh-dark-mode-only"/>
+  <!-- ________________________________________________________________________________
+                                                                                      |
+                                                           (your username goes here)  V  (your username goes here) -->
+  <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&theme=calm&&include_all_commits=true&count_private=true"/>
+  <!-- ________________________________________________________________________________________________________
+                                                                                                              |
+                                                                                   (your username goes here)  V  (your username goes here) -->
+  <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=calm#gh-dark-mode-only"/>
  </a>
 </div>
 
 
- 🎢 Activity graph:
+ :roller_coaster: Activity graph:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<p align="center">
-
+<div align="center">
+ 
  <!--===================================
  dark-mode 
  ===================================-->
- 
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-dark-mode-only">
- <!-- _____________________________________________________________________
-                                                                          |
-                                               (your username goes here)  V  (your username goes here) -->
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=a13xe&theme=github-compact&area=true&hide_border=true&height=350#gh-dark-mode-only" width="100%">
+  <!-- _____________________________________________________________________
+                                                                           |
+                                                (your username goes here)  V  (your username goes here) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a13xe&theme=github-compact&area=true&hide_border=true&height=350#gh-dark-mode-only" width="100%">
  </a>
- 
+  
  <!--===================================
  light-mode 
  ===================================-->
- 
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-light-mode-only">
- <!-- _____________________________________________________________________
+  <!-- _____________________________________________________________________
                                                                           |
                                                (your username goes here)  V  (your username goes here) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a13xe&theme=github&area=true&hide_border=true&height=350#gh-light-mode-only" width="100%">
  </a>
 
-</p>
+</div>
