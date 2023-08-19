@@ -1,13 +1,13 @@
-:eye_speech_bubble: Your bio:
+:eye_speech_bubble: How to use:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 - Create a repository named after your GitHub username.
-- Utilize this template (replace with your username and delete the comments).
+- Utilize this template (Replace the "user" parameters with your username, and delete the comments).
 - Explore more options at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph).
 
 
- :hammer_and_wrench: Tech stack:
+:hammer_and_wrench: Tech stack:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -29,13 +29,12 @@
 For other icons from shields.io, use [shields-with-icon](https://github.com/progfay/shields-with-icon).
 
 
- :crystal_ball: Github statistics:
+:crystal_ball: Github statistics:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <div align="center">
 
- 
  <!--===================================
  dark-mode 
  ===================================-->
@@ -50,7 +49,6 @@ For other icons from shields.io, use [shields-with-icon](https://github.com/prog
   <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only"/>
  </a>
  
- 
  <!--===================================
  light-mode 
  ===================================-->
@@ -64,10 +62,11 @@ For other icons from shields.io, use [shields-with-icon](https://github.com/prog
                                                                                    (your username goes here)  V  (your username goes here) -->
   <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=calm#gh-dark-mode-only"/>
  </a>
+ 
 </div>
 
 
- :roller_coaster: Activity graph:
+:roller_coaster: Activity graph:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -82,7 +81,7 @@ For other icons from shields.io, use [shields-with-icon](https://github.com/prog
                                                 (your username goes here)  V  (your username goes here) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a13xe&theme=github-compact&area=true&hide_border=true&height=350#gh-dark-mode-only" width="100%">
  </a>
-  
+
  <!--===================================
  light-mode 
  ===================================-->
