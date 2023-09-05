@@ -2,13 +2,16 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- Create a repository named after your GitHub username.
-- Utilize this template (Replace the "user" parameters with your username, and delete the comments).
+
+- Create a repository named after your GitHub username and create `README.md` file.
+- Copy this template, replace the `user` parameters with your username, and delete the comments.
 - Explore more options at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph).
+
 
 
 :hammer_and_wrench: Tech stack:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -29,12 +32,13 @@
 For other icons from shields.io, use [shields-with-icon](https://github.com/progfay/shields-with-icon).
 
 
+
 :crystal_ball: Github statistics:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<div align="center">
 
+<div align="center">
  <!--===================================
  dark-mode 
  ===================================-->
@@ -58,16 +62,16 @@ For other icons from shields.io, use [shields-with-icon](https://github.com/prog
                                                                                    (your username goes here)  V  (your username goes here) -->
   <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=calm#gh-dark-mode-only"/>
  </a>
- 
 </div>
+
 
 
 :roller_coaster: Activity graph:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
 <div align="center">
- 
  <!--===================================
  dark-mode 
  ===================================-->
@@ -85,5 +89,4 @@ For other icons from shields.io, use [shields-with-icon](https://github.com/prog
                                                (your username goes here)  V  (your username goes here) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a13xe&theme=github&area=true&hide_border=true&height=350#gh-light-mode-only" width="100%">
  </a>
-
 </div>
