@@ -45,10 +45,10 @@ For other icons from shields.io, use [shields-with-icon](https://github.com/prog
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-dark-mode-only">
   <!--                                                                                |
                                                            (your username goes here)  V  (your username goes here) -->
-  <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&include_all_commits=true&count_private=true&theme=dark&bg_color=000000"/>
+  <img alt="" width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&include_all_commits=true&count_private=true&theme=dark&bg_color=000000"/>
   <!--                                                                                                        |
                                                                                    (your username goes here)  V  (your username goes here) -->
-  <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only"/>
+  <img alt="" width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only"/>
  </a>
  
  <!--===================================
@@ -57,10 +57,10 @@ For other icons from shields.io, use [shields-with-icon](https://github.com/prog
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-light-mode-only">
   <!--                                                                                |
                                                            (your username goes here)  V  (your username goes here) -->
-  <img width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&theme=calm&&include_all_commits=true&count_private=true"/>
+  <img alt="" width=55% src="https://github-readme-stats-eight-theta.vercel.app/api?username=a13xe&show_icons=true&hide_border=true&line_height=28&theme=calm&&include_all_commits=true&count_private=true"/>
   <!--                                                                                                        |
                                                                                    (your username goes here)  V  (your username goes here) -->
-  <img width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=calm#gh-dark-mode-only"/>
+  <img alt="" width=43% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a13xe&layout=compact&line_height=28&langs_count=6&hide_border=true&include_orgs=true&theme=calm#gh-dark-mode-only"/>
  </a>
 </div>
 
@@ -78,7 +78,7 @@ For other icons from shields.io, use [shields-with-icon](https://github.com/prog
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-dark-mode-only">
   <!--                                                                     |
                                                 (your username goes here)  V  (your username goes here) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a13xe&theme=github-compact&area=true&hide_border=true&height=350#gh-dark-mode-only" width="100%">
+  <img alt="" src="https://github-readme-activity-graph.vercel.app/graph?username=a13xe&theme=github-compact&area=true&hide_border=true&height=350#gh-dark-mode-only" width="100%">
  </a>
 
  <!--===================================
@@ -87,6 +87,6 @@ For other icons from shields.io, use [shields-with-icon](https://github.com/prog
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-light-mode-only">
   <!--                                                                    |
                                                (your username goes here)  V  (your username goes here) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a13xe&theme=github&area=true&hide_border=true&height=350#gh-light-mode-only" width="100%">
+  <img alt="" src="https://github-readme-activity-graph.vercel.app/graph?username=a13xe&theme=github&area=true&hide_border=true&height=350#gh-light-mode-only" width="100%">
  </a>
 </div>
